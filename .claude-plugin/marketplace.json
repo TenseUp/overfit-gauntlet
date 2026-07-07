@@ -1,0 +1,13 @@
+{
+  "name": "overfit-gauntlet",
+  "owner": {
+    "name": "Dominic Falso"
+  },
+  "plugins": [
+    {
+      "name": "overfit-gauntlet",
+      "source": "./",
+      "description": "Validate backtests honestly: run the anti-overfit gauntlet and lint strategy code for lookahead bias."
+    }
+  ]
+}

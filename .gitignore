@@ -1,0 +1,8 @@
+reference/
+SPEC.md
+.mission_name
+__pycache__/
+.pytest_cache/
+*.egg-info/
+dist/
+build/

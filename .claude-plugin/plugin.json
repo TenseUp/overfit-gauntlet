@@ -1,0 +1,8 @@
+{
+  "name": "overfit-gauntlet",
+  "description": "Anti-overfit validation gauntlet for trading-strategy backtests: deflated/probabilistic Sharpe, permutation & bootstrap nulls, purged K-fold OOS, cost stress, and a lookahead linter for backtest code.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dominic Falso"
+  }
+}
