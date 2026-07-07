@@ -1,5 +1,7 @@
 # overfit-gauntlet
 
+[![CI](https://github.com/TenseUp/overfit-gauntlet/actions/workflows/ci.yml/badge.svg)](https://github.com/TenseUp/overfit-gauntlet/actions/workflows/ci.yml)
+
 **An anti-overfit validation gauntlet for trading-strategy backtests — plus a
 static lookahead linter for backtest code.**
 
